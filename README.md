@@ -25,7 +25,7 @@ Thus, it is better to stay open-minded and explore the most fundamental visual f
 The book cover dataset I used contains 57,000 different samples, it is proposed by an earlier [research paper](https://arxiv.org/pdf/1610.09204.pdf) on book cover visual features and categories. However, I am more interested in finding the natural visual similarities that lead to the reader's preferences without considering a book's category. I clustered the visual features with the simplest K-Means from [scikit-learn](https://scikit-learn.org/stable/) library. The results based on a 5 cluster centers are like the following:
 
 <p float="left">
-  <img src="3d_books.png" height="350" />
+  <img src="3d_books.png" height="300" />
   <img src="raw_books.png" height="300" /> 
 </p>
 
