@@ -1,2 +1,2 @@
-# AI_Librarian
-Librarian for modern readers: Judge a book by its cover!
+# AI Librarian: Judge A Book by Its Cover!
+
