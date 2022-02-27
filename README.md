@@ -2,11 +2,11 @@
 
 
 <p float="left">
-  <img src="/bookcovers/Death in Her Hands.jpg" height="300" />
-  <img src="bookcovers/Invisible Man.jpg" height="300" /> 
-  <img src="/bookcovers/On Beauty.jpg" height="300" />
-  <img src="/bookcovers/Tinker Tailor.jpg" height="300" />
-  <img src="/bookcovers/Tree of Smoke.jpg" height="300" />
+  <img src="/bookcovers/Death in Her Hands.jpg" height="220" />
+  <img src="bookcovers/Invisible Man.jpg" height="220" /> 
+  <img src="/bookcovers/On Beauty.jpg" height="220" />
+  <img src="/bookcovers/Tinker Tailor.jpg" height="220" />
+  <img src="/bookcovers/Tree of Smoke.jpg" height="220" />
 </p>
 
 :email: 
