@@ -17,7 +17,7 @@ I am a librarian of the District of Columbia Public Library system. After observ
 Information systems such as the library catalog (and the commonly used, unwieldy Dewey Decimal System) are often unsuited to people’s natural browsing habits.  Using my experience as a librarian and bookseller, I decided to explore the connection between browsing habits and the physical similarities of book covers, a project with the aim of allowing people to more easily manage their browsing by collating book covers based on physical similarity. 
 
 
-## Explore the latent visual similarity in book covers that leads to preference
+## Explore the latent visual similarity in book covers that lead to preference
 The connection between visual preference and cover features is complicated. It might be too naive to assume that the readers will be attracted to a certain combination of color and font types. In fact, the visual attraction is not just about layout, but also the content and style that conveys the characterastic of the author, whether it is classic or [trendy](https://www.designhill.com/design-blog/top-book-cover-design-trends/).
 
 Thus, it is better to stay open-minded and explore the most fundamental visual features instead of hand-crafting a pool of rules. After careful study, I decided to borrow the intelligence from the current largest visual dataset [*ImageNet*](https://www.image-net.org/update-mar-11-2021.php). *ImageNet* has 14,197,122 images, a diverse source for visual description of all kinds. I build a simple model of neural networks from the [*PyTorch*](https://pytorch.org/), in which they provide a feature model already trained with *ImageNet*.
