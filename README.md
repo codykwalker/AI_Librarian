@@ -43,5 +43,5 @@ I am trying to enlarge the [dataset](https://arxiv.org/pdf/1610.09204.pdf) by ad
 It will be interesting to see more refined clusters and their relations to year.
 
 
-Many thanks to my friends from the technology field, [Kamal](https://kampta.github.io/) and [Luyu](http://www.loyo.me/), that helped me find the resources.
+Many thanks to my friends from the technology field, [Kamal](https://kampta.github.io/) and [Luyu](http://www.loyo.me/), who helped me find the resources.
 
